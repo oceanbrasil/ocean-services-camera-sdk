@@ -10,7 +10,7 @@ __Restrictions__
 
 > __Note:__ Some features will be supported in Android 5.1 Lollipop (API level 22).
 
-he Samsung Galaxy series camera has been leading the race on smartphone and tablet camera technology. It has introduced many enhanced features and technologies over time. However, these camera features were available only with the preloaded camera application. Through the Camera SDK, Samsung is providing easy to use APIs that lets you implement new features into your own application. It also lets you use state of the art functionalities, such as control-based hardware, convenient smart modes, various real-time filters, and fast processing of large size images, in developing enriched camera-based applications.
+The Samsung Galaxy series camera has been leading the race on smartphone and tablet camera technology. It has introduced many enhanced features and technologies over time. However, these camera features were available only with the preloaded camera application. Through the Camera SDK, Samsung is providing easy to use APIs that lets you implement new features into your own application. It also lets you use state of the art functionalities, such as control-based hardware, convenient smart modes, various real-time filters, and fast processing of large size images, in developing enriched camera-based applications.
 
 The newly developed, intuitive Camera SDK facilitates easy development even if you do not have prior knowledge about the camera. API documents, sample codes and programming guides are provided to assist and speed up app development.
 
