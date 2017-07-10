@@ -36,7 +36,7 @@ Add into app project level
 
 ``` Gradle
 dependecies{
-    compile 'com.github.oceanbrasil:samsung-services-accesory-sdk:1.2.3'
+    compile 'com.github.oceanbrasil:ocean-services-accesory-sdk:1.2.3'
 }
 ```
 
